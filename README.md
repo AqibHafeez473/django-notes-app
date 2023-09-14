@@ -6,7 +6,7 @@ Node.js
 React
 **#Installation**
 Clone the repository
-git clone https://github.com/LondheShubham153/django-notes-app.git
+
 Build the app
 docker build -t notes-app .
 Run the app
